@@ -1,0 +1,54 @@
+<!-- 
+ToUserName	开发者微信号
+FromUserName	发送方帐号（一个OpenID）
+CreateTime	消息创建时间 （整型） 单位为秒
+MsgType	消息类型，文本为text  消息类型
+Content	文本消息内容
+MsgId	消息id，64位整型
+
+
+ -->
+
+<xml>
+	<ToUserName><![CDATA[gh_feb721fb34f9]]></ToUserName>
+	<FromUserName><![CDATA[oYT2x55gQ2Z7xJu8i6YmWFj2BcDA]]></FromUserName>
+	<CreateTime>1554023258</CreateTime>
+	<MsgType><![CDATA[text]]></MsgType>
+	<Content><![CDATA[1]]></Content>
+	<MsgId>22248262303558833</MsgId>
+</xml>
+
+
+<!--  {  文本消息
+MsgId=22251980254192197, 
+FromUserName=oYT2x55gQ2Z7xJu8i6YmWFj2BcDA, 
+CreateTime=1554282897, 
+Content=123456, 
+ToUserName=gh_feb721fb34f9, 
+MsgType=text}
+-->
+
+<!--  {语音消息
+MsgId=22251982711662803, 
+Format=amr, 
+FromUserName=oYT2x55gQ2Z7xJu8i6YmWFj2BcDA,
+ Recognition=,
+  CreateTime=1554283151,
+   MediaId=cj7v2YRjBj5h9RXNDbjNu9FOOIYKio8pB-mIOJcE0hRccf3pChsTUvu28daCbbwc, 
+   ToUserName=gh_feb721fb34f9, 
+   MsgType=voice}
+   -->
+<!-- 
+{位置消息
+MsgId=22251985905877591, 
+FromUserName=oYT2x55gQ2Z7xJu8i6YmWFj2BcDA,
+ CreateTime=1554283234, Label=晋中学院(晋中市榆次区文华街199号), 
+ Scale=16, 
+ Location_X=37.742077, 
+ ToUserName=gh_feb721fb34f9,
+  Location_Y=112.721016,
+   MsgType=location}
+ -->
+
+
+
